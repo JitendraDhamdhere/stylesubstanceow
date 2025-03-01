@@ -69,6 +69,8 @@ $num1 = mysqli_num_rows($rt);
                                 <li><a href="subcategory.php"><i class="menu-icon icon-tasks"></i>Sub Category </a></li>
                                 <li><a href="insert-product.php"><i class="menu-icon icon-paste"></i>Insert Product </a></li>
                                 <li><a href="manage-products.php"><i class="menu-icon icon-table"></i>Manage Products </a></li>
+								<li><a href="manage-reports.php"><i class="menu-icon icon-table"></i>Manage Reports </a></li>
+
                         
                             </ul><!--/.widget-nav-->
 

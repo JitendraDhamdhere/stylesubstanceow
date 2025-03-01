@@ -181,7 +181,7 @@ div.nav-global li a,div.nav-global li a span {
 
 div.nav-global li a:hover {
 	background-position: right 0px;
-	color: #333333;
+	color: #4da6ff;
 }
 
 div.nav-global li a:hover span {
@@ -402,7 +402,7 @@ div.action-bottom a span.shadow {
 .hero-text h1 {
 	font-size: 2.3em;
 	line-height: 1.2em;
-	color: #333333;
+	color: #4da6ff;
 	font-family: Trebuchet MS;
 	margin: 12px 0px 10px 10px;
 }
@@ -454,7 +454,7 @@ div.action-bottom a span.shadow {
 	text-align: center;
 	margin: 0px;
 	padding: 11px 5px 11px 2px;
-	color: #333333;
+	color: #4da6ff;
 }
 
 .callout-tan p {
@@ -479,7 +479,7 @@ div.action-bottom a span.shadow {
 .box-purple {
 	background: #C6C8E3 url(images/back_home-icons.png) 0px 0px repeat-x;
 	border-left: 1px solid #ffffff;
-	color: #333333;
+	color: #4da6ff;
 	width: 581px;
 	padding: 10px 15px 20px 15px;
 }
@@ -559,7 +559,7 @@ div.box-purple a {
 	font-size: 1.2em;
 	margin: 0px;
 	padding: 11px 5px 11px 15px;
-	color: #333333;
+	color: #4da6ff;
 }
 
 .callout-news p {
@@ -1002,7 +1002,7 @@ div.left-nav-callout img.png {
 
 div.left-nav-callout h6 {
 	font: bold 14px tahoma, geneva;
-	color: #333333;
+	color: #4da6ff;
 	height: 36px;
 	padding-left: 5px;
 	margin: 0px;
@@ -1105,7 +1105,7 @@ div.offerbox {
 
 div.offerbox h3 {
 	font: bold 17px tahoma, geneva;
-	color: #333333;
+	color: #4da6ff;
 	height: 55px;
 	margin: 0px auto;
 	text-align: center;
@@ -1161,7 +1161,7 @@ div.offerHeader span {
 
 div.offerHeader span.shadow {
 	font: 20px 'trebuchet ms';
-	color: #333333;
+	color: #4da6ff;
 	position: absolute;
 }
 

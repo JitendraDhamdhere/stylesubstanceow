@@ -216,7 +216,7 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #333333;
+  color: #4da6ff;
   background-color: #ffffff;
 }
 .note-editor a {
@@ -820,7 +820,7 @@
   padding: 0 3px 2px;
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 12px;
-  color: #333333;
+  color: #4da6ff;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -879,7 +879,7 @@
   margin-bottom: 20px;
   font-size: 21px;
   line-height: 40px;
-  color: #333333;
+  color: #4da6ff;
   border: 0;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -2474,7 +2474,7 @@
   clear: both;
   font-weight: normal;
   line-height: 20px;
-  color: #333333;
+  color: #4da6ff;
   white-space: nowrap;
 }
 .note-editor .dropdown-menu > li > a:hover,
@@ -2700,7 +2700,7 @@
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
-  color: #333333;
+  color: #4da6ff;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
   background-color: #f5f5f5;
   background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
@@ -2733,7 +2733,7 @@
 .note-editor .btn.active,
 .note-editor .btn.disabled,
 .note-editor .btn[disabled] {
-  color: #333333;
+  color: #4da6ff;
   background-color: #e6e6e6;
   *background-color: #d9d9d9;
 }
@@ -2746,7 +2746,7 @@
 }
 .note-editor .btn:hover,
 .note-editor .btn:focus {
-  color: #333333;
+  color: #4da6ff;
   text-decoration: none;
   background-position: 0 -15px;
   -webkit-transition: background-position 0.1s linear;
@@ -3077,7 +3077,7 @@
 }
 .note-editor .btn-link[disabled]:hover,
 .note-editor .btn-link[disabled]:focus {
-  color: #333333;
+  color: #4da6ff;
   text-decoration: none;
 }
 .note-editor .btn-group {
@@ -3768,7 +3768,7 @@
 }
 .note-editor .navbar-link:hover,
 .note-editor .navbar-link:focus {
-  color: #333333;
+  color: #4da6ff;
 }
 .note-editor .navbar .divider-vertical {
   height: 40px;
@@ -3924,7 +3924,7 @@
 .note-editor .navbar .nav > li > a:focus,
 .note-editor .navbar .nav > li > a:hover {
   background-color: transparent;
-  color: #333333;
+  color: #4da6ff;
   text-decoration: none;
 }
 .note-editor .navbar .nav > .active > a,
@@ -4028,8 +4028,8 @@
 }
 .note-editor .navbar .nav li.dropdown > a:hover .caret,
 .note-editor .navbar .nav li.dropdown > a:focus .caret {
-  border-top-color: #333333;
-  border-bottom-color: #333333;
+  border-top-color: #4da6ff;
+  border-bottom-color: #4da6ff;
 }
 .note-editor .navbar .nav li.dropdown.open > .dropdown-toggle,
 .note-editor .navbar .nav li.dropdown.active > .dropdown-toggle,
@@ -4167,7 +4167,7 @@
 .note-editor .navbar-inverse .navbar-search .search-query:focus,
 .note-editor .navbar-inverse .navbar-search .search-query.focused {
   padding: 5px 15px;
-  color: #333333;
+  color: #4da6ff;
   text-shadow: 0 1px 0 #ffffff;
   background-color: #ffffff;
   border: 0;
@@ -4871,7 +4871,7 @@
 }
 .note-editor .label-inverse,
 .note-editor .badge-inverse {
-  background-color: #333333;
+  background-color: #4da6ff;
 }
 .note-editor .label-inverse[href],
 .note-editor .badge-inverse[href] {
@@ -5212,7 +5212,7 @@
   right: 0;
   bottom: 0;
   padding: 15px;
-  background: #333333;
+  background: #4da6ff;
   background: rgba(0, 0, 0, 0.75);
 }
 .note-editor .carousel-caption h4,
